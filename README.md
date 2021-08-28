@@ -2,12 +2,12 @@ Welcome to the Play With Python wiki!
 
 This document aims to  guide python learning for a newbie by practicing problems through multiple levels of difficulty
 
-*   [Getting Started](https://github.com/99products/Play-With-Python/wiki/Play-With-Python/#getting-started)
-    *   [Courses](https://github.com/99products/Play-With-Python/wiki/Play-With-Python/#courses)
-    *   [Python setup](https://github.com/99products/Play-With-Python/wiki/Play-With-Python/#python-setup)
-    *   [IDE setup](https://github.com/99products/Play-With-Python/wiki/Play-With-Python/#ide-setup)
-*   [Levels](https://github.com/99products/Play-With-Python/wiki/Play-With-Python/#levels)
-    *   [Level 0](https://github.com/99products/Play-With-Python/wiki/Play-With-Python/#level-0)
+*   [Getting Started](https://github.com/99products/Play-With-Python/#getting-started)
+    *   [Courses](https://github.com/99products/Play-With-Python/#courses)
+    *   [Python setup](https://github.com/99products/Play-With-Python/#python-setup)
+    *   [IDE setup](https://github.com/99products/Play-With-Python/#ide-setup)
+*   [Levels](https://github.com/99products/Play-With-Python/#levels)
+    *   [Level 0](https://github.com/99products/Play-With-Python/#level-0)
 
 # **Getting Started**
 
