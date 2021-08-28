@@ -1,4 +1,4 @@
-Welcome to the Play With Python wiki!
+# Play with Python
 
 This document aims to  guide python learning for a newbie by practicing problems through multiple levels of difficulty
 
